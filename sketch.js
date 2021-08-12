@@ -1,4 +1,5 @@
 var database,canvas;
+var canvas, playerCount,database,form, player, game;
 var gameState=0;
 
 function setup(){
